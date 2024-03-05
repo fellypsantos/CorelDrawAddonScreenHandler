@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorelDrawAddonScreenHandler", "CorelDrawAddonScreenHandler\CorelDrawAddonScreenHandler.csproj", "{43D3CA6E-B560-4EAE-972C-5DF8A8079774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D3CA6E-B560-4EAE-972C-5DF8A8079774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D3CA6E-B560-4EAE-972C-5DF8A8079774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D3CA6E-B560-4EAE-972C-5DF8A8079774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D3CA6E-B560-4EAE-972C-5DF8A8079774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C055801A-13D6-45DD-B63D-E2E7CE0C80F4}
+	EndGlobalSection
+EndGlobal
