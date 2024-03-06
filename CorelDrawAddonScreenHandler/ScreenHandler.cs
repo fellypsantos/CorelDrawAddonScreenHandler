@@ -11,9 +11,6 @@ namespace CorelDrawAddonScreenHandler
         [DllImport("user32.dll")]
         private static extern int SetForegroundWindow(IntPtr hWnd);
 
-        [DllImport("user32.dll")]
-        static extern IntPtr GetFocus();
-
         // Reference to CorelDraw main window
         private static IntPtr _corelDrawMainHandler { get; set; }
 
